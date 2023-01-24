@@ -8,9 +8,7 @@ import {legacy_createStore as createStore, applyMiddleware,compose } from 'redux
 import thunk from 'redux-thunk' 
 import Reducers from './reducers/index';
 
-//import "./responsive.css";
 
-//import "./styles.css";
 
 
 
